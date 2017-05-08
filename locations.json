@@ -1,0 +1,32 @@
+[
+  {
+		"id": 1,
+		"name": "Lynn Location",
+		"street": "123 Lynn",
+		"city": "Lynn",
+		"state": "MA",
+		"zip": "12345",
+		"phone": "123-456-8790"
+	},
+
+	{
+		"id": 2,
+		"name": "Lynn Location",
+		"street": "123 Harvard",
+		"city": "Cambridge",
+		"state": "MA",
+		"zip": "222222",
+		"phone": "123-456-8792"
+	},
+
+	{
+		"id": 3,
+		"name": "Lynn Location",
+		"street": "123 MIT",
+		"city": "Boston",
+		"state": "MA",
+		"zip": "111111",
+		"phone": "123-456-8793"
+	}
+
+]

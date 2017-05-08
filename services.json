@@ -1,0 +1,20 @@
+[
+  {
+    "id":1,
+    "name":"Hardware Repair",
+    "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+    "image":"computer-icon.png"
+  },{
+    "id":2,
+    "name":"Virus Removal",
+    "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+    "image":"computer-icon.png"
+  },
+  {
+    "id":3,
+    "name":"System Tuneup",
+    "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+    "image":"computer-icon.png"
+  }
+
+]

@@ -1,0 +1,16 @@
+.hello{
+  color: green;
+}
+.hello2{
+  color:red
+}
+footer{
+  background-color: #e2e2e2
+}
+footer p{
+  text-align: center;
+}
+.services{
+  border-bottom: 1px solid #ccc;
+  padding: 20px 0;
+}
